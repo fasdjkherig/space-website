@@ -6,6 +6,7 @@
 
 - fully responsive design.
 - animations
+- figma to code
 
 ### Technologies:
 
