@@ -1,17 +1,22 @@
-# Car Website landing page
+# Metaversus Website landing page
 
-![home image](https://github.com/fasdjkherig/arabic-car-website-js/blob/master/images/cover%20image.png)
+![home image](https://github.com/fasdjkherig/space-website/blob/main/public/readme.png)
 
 ### contains:
 
-fully responsive design.
+- fully responsive design.
+- animations
 
 ### Technologies:
 
 - **html**
 - **css**
 - **javascript**
+- **reactjs**
+- **nextjs**
+- **framer-motion**
+- **tailwindcss**
 
 #### Demo:
 
-[Project link](http://arabic-car-website-js.vercel.app/)
+[Project link](https://space-website-neon.vercel.app/)
