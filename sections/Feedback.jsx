@@ -46,7 +46,7 @@ const Feedback = () => (
         />
 
         <motion.div
-          variants={zoomIn(0.1, 1)}
+          variants={zoomIn(0.1, 0.5)}
           className="lg:block hidden absolute -left-[10%] top-[3%]"
         >
           <img
