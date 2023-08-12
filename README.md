@@ -1,7 +1,17 @@
-# Build and Deploy a Modern Next 13 Website With Framer Motion & Tailwind CSS
+# Car Website landing page
 
-### [Live Site](https://metaverse-sage-psi.vercel.app/)
+![home image](https://github.com/fasdjkherig/arabic-car-website-js/blob/master/images/cover%20image.png)
 
-![Chat Application](https://i.ibb.co/sbSHWH0/Thumbnail-1.png)
+### contains:
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+fully responsive design.
+
+### Technologies:
+
+- **html**
+- **css**
+- **javascript**
+
+#### Demo:
+
+[Project link](http://arabic-car-website-js.vercel.app/)
